@@ -1,0 +1,28 @@
+body{
+    
+    background-attachment: fixed;
+
+}
+
+h1{
+    
+    text-align: center;
+}
+.p2{
+    
+    height: 10%;
+    border: solid;
+    width: 30%;
+    float: right;
+    clear: right;
+}
+
+.p1{
+    display: block;
+    bottom: 22%;
+    margin: 2%;
+    bottom: 25%;
+    border: solid;
+    width: 50%;
+    float: left;
+}

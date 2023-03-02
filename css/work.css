@@ -1,28 +1,58 @@
-body{
-    
+body {
+    background-color: #bdc3c7;
+    background-size: cover;
     background-attachment: fixed;
-
 }
 
-h1{
-    
+a:link{
+    color:;
+}
+
+h1 {
     text-align: center;
-}
-.p2{
-    
-    height: 10%;
-    border: solid;
-    width: 30%;
-    float: right;
-    clear: right;
+    position: relative;
+    bottom: 41px;
+    color: rgb(5, 66, 152);
+    font-size: 59px;
+    font-family: monospace;
 }
 
-.p1{
-    display: block;
-    bottom: 22%;
-    margin: 2%;
-    bottom: 25%;
-    border: solid;
-    width: 50%;
-    float: left;
+.bb{
+    font-size: 30px;
+    color:  cornflowerblue;
 }
+
+
+ table{
+    margin-top: 0px;
+    margin-bottom: opx;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: aqua;
+    text-align: center;
+    height: 200px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

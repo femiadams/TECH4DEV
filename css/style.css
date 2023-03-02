@@ -1,8 +1,87 @@
+
+
+/* styling navbars*/
+ /* Navigation Bar styles */
+ .Na_Bar{
+    margin-top: 50px;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+.Na_Bar li{
+    display: inline;
+    margin: 20px;
+}
+
+.Na_Bar li a{
+    text-decoration: none;
+    color: red;
+}
+
+
+ #Reg_div h1{
+    color: red;
+}
+
+
+/* label styles*/
+
+
+label{
+    color: red;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+
+
+
+
+
+
+
+
 body {
 
     background: linear-gradient(to right, skyblue, yellow);
 }
 
+
+
+
+/* styling form.html file*/
+
+
+
+
+#Reg_div{
+    text-align: center;
+    max-height: fit-content;
+    width: auto;
+    max-width: fit-content;
+    
+    border-color: aquamarine;
+    background-color: aquamarine;
+    position:relative;
+    left:550px;
+    top: 60px;
+
+}
+
+button{
+    padding: 10px;
+    border-radius: 70px ;
+    border-color: white;
+    color:red;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+
+
+
+/*
 input {
     border: 4px solid navy;
     border-top-style: hidden;
@@ -109,3 +188,7 @@ h2 {
     border-style: dotted;
     border-color: aqua;
 }
+  */
+
+
+

@@ -55,7 +55,6 @@ body {
 
 
 
-
 #Reg_div{
     text-align: center;
     max-height: fit-content;
@@ -69,6 +68,7 @@ body {
     top: 60px;
 
 }
+
 
 button{
     padding: 10px;
@@ -86,6 +86,7 @@ button{
     background-size: cover;
     background-attachment: fixed;
 }
+
 
 #wel_head {
     text-align: center;
